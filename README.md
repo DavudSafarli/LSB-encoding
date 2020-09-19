@@ -28,6 +28,8 @@ creates a new image with <image-path-to-embed_embedded.png> in the same director
 
 prints the secret hidden inside the image
 
+### Sidenote
+embedding only works with PNG images, because JPG images are compressed and pixel values are modified by decoding algorithms
 
 
 
