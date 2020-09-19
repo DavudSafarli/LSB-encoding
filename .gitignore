@@ -1,0 +1,6 @@
+.vscode
+.idea
+test.go
+*.png
+*.jpg
+*.exe
